@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DEE0BE4C-BBD6-4220-B6A0-205F6A0C1087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationExtensions", "src\PaginationExtensions\PaginationExtensions.csproj", "{C687959F-81FF-42B2-B11B-F5C1F3A51795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955042DB-7755-4A4B-90A0-F82DD2E63E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955042DB-7755-4A4B-90A0-F82DD2E63E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955042DB-7755-4A4B-90A0-F82DD2E63E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955042DB-7755-4A4B-90A0-F82DD2E63E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C687959F-81FF-42B2-B11B-F5C1F3A51795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C687959F-81FF-42B2-B11B-F5C1F3A51795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C687959F-81FF-42B2-B11B-F5C1F3A51795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C687959F-81FF-42B2-B11B-F5C1F3A51795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C687959F-81FF-42B2-B11B-F5C1F3A51795} = {DEE0BE4C-BBD6-4220-B6A0-205F6A0C1087}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9AD286-43DA-43AA-BA7D-86CB756CAF6F}
+	EndGlobalSection
+EndGlobal
